@@ -38,9 +38,13 @@ This is available in the OCE console if you look at any Asset Mgmt API data that
 Here's an example file format for "Malls":
 
 id,mall_name,city,address,phone,
+
 mall0001,Yellow Mall Madrid,Madrid,Plaza Mayor,9101010101,
+
 mall0002,Yellow Mall Getafe,Getafe,Plaza Mayor,9102020202,
+
 mall0003,Yellow Mall Toledo,Toledo,Plaza Mayor,9103030303,
+
 
 The header field values should use the same names as your target fields in OCE.  Every required field in OCE should have a corresponding column in the CSV file.
 
