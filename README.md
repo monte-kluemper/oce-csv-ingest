@@ -14,7 +14,7 @@ node src/cli.js --help
 
 # Step 2: Generate OAuth Token
 
-```bash
+```
 ./node_modules/.bin/oce-management login-oauth -h <server> -c <client-id> -s<secret> -x<scope> -u<username>
 
 Example values:
@@ -27,7 +27,7 @@ Example values:
 
 More information is available in the documented instructions on how to obtain a OAuth token by setting up an OAuth application in IDCS.  If the command is successful, you should see this message in the console:
 
-```bash
+```
 "Credentials and token are persisted to .oce-auth-config.enc and .oce-token.enc."
 ```
 
