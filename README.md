@@ -40,7 +40,7 @@ This is available in the OCE console if you look at any Asset Mgmt API data that
 
 Here's an example file format for "Malls":
 
-```bash
+```
 id,mall_name,city,address,phone,
 mall0001,Yellow Mall Madrid,Madrid,Plaza Mayor,9101010101,
 mall0002,Yellow Mall Getafe,Getafe,Plaza Mayor,9102020202,
@@ -51,7 +51,7 @@ The header field values should use the same names as your target fields in OCE. 
 
 By default, all fields are of type string.  However, you can force a field to be of particular type by adding a suffix in the header row like this:
 
-```bash
+```
 id,mall_name,city,address,phone:n,sales:f,
 
 The list of valid field types and their suffix values is:
@@ -64,7 +64,7 @@ The list of valid field types and their suffix values is:
 
 The 'id' field is a special field that can be used to define relationships between content types to be uploaded.  For example, if you want to upload "Brands" that are related to a particular Mall, you can set a reference field such as "mall" as part of the brand definition that refers to a Mall asset.  In the CSV for the list of malls, you should create a unique ID for each mall.  Then, in the CSV for each store, you will need to have a column that represents the reference asset.  This is done by setting the field type to the name of the reference content type and using an '@' character to indicate that this is a reference field.  For example, a sample XLS for brands might look like this:
 
-```bash
+```
 id,mall:@Mall,brand_name,details,phone,
 b001,mall0001,Banana Yellow Madrid,Details for Banana Yellow Brand,912312321,
 b002,mall0002,Banana Yellow Getafe,Details for Banana Yellow Brand,923232323,
@@ -84,7 +84,7 @@ When constructing the CSV file, keep in mind that the upload logic uses the firs
 
 There is an "ingestAssets" command in the CLI that connects and creates the content assets.
 
-```bash
+```
 Format:  node src/cli.js ingestAssets -r <repository-id> -c <contentType> [-l <locale (def:  en-US)> -t -v -a] <csv-file>
 
 -t should be sent only if you don't want the content to be translated
@@ -94,7 +94,7 @@ Format:  node src/cli.js ingestAssets -r <repository-id> -c <contentType> [-l <l
 
 Example 1:  Upload master assets that are translatable (in English)
 
-```bash
+```
 node src/cli.js ingestAssets -r ABCDEFG0123456789BCDEFG -c Mall -t malls.csv
 ```
 
@@ -103,7 +103,7 @@ A reference file will be created that can be used for linking these assets to ot
 
 Example 2:  Upload variant assets
 
-```bash
+```
 node src/cli.js ingestAssets -r ABCDEFG0123456789BCDEFG -c Mall -l es -v true malls.csv
 ```
 
@@ -117,7 +117,7 @@ A reference file is not created for variant uploads.
 
 This service allows you to explicitly generate a reference file from assets that have already been uploaded into the repository.  These reference files can be used when uploading other content types to auto-populate reference fields.
 
-```bash
+```
 Format:  node src/cli.js generateReferenceFile -r <repository-id> -c <contentType> [-k <key = id(def)|name|slug|sequence>]
 
 -k this is the key that will be used in other uploaded files to create the reference.  Valid values are id (default), name, slug and a generated sequence
@@ -129,7 +129,7 @@ This service can be used, for example, to export a set of references for images 
 
 This service allows you to export assets to a CSV file that can be ingested via the ingest command.
 
-```bash
+```
 Format:  node src/cli.js exportContentToCSV -r <repository-id> -c <contentType>
 ```
 
