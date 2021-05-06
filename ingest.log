@@ -1,0 +1,171 @@
+2021-04-22T23:43:34.168Z - 1 - "Cloud Mall II" - d38bdf96-b798-5b3f-bc3b-234234234234 - COREC8F9805CC04A42488D32041DE574CBFD ingested in 2,197 ms, concurrency 2.
+2021-04-22T23:44:38.004Z - 1 - "Cloud Mall IV" - d38bdf96-b798-5b3f-bc3b-234234234234 - COREE8C76AF360F44BB3810E00015A73E672 ingested in 1,615 ms, concurrency 2.
+2021-04-22T23:44:37.927Z - 0 - "Cloud Mall III" - d38bdf96-b798-5b3f-bc3b-123451234512 - CORE02A178FEDE074C73A09ED55E88AE5E24 ingested in 1,866 ms, concurrency 1.
+2021-04-23T15:02:02.335Z - 1 - "Yellow Mall II" - d38bdf96-b798-5b3f-bc3b-234234234234 - CORE42EC73048B994F159275F3FBCD12BA4C ingested in 2,776 ms, concurrency 3.
+2021-04-23T15:02:02.343Z - 2 - "Yellow Mall III" - d38bdf96-b798-5b3f-bc3b-567567567567 - CORE8481437E557943C6ABCC3E4AAF577F07 ingested in 2,890 ms, concurrency 2.
+2021-04-23T15:02:02.283Z - 0 - "Yellow Mall I" - d38bdf96-b798-5b3f-bc3b-123451234512 - CORECBD6D8425E394E7FA8C3B85EAD50B9F9 ingested in 3,057 ms, concurrency 1.
+2021-04-23T15:13:41.830Z - 2 - "Yellow Mall III" - d38bdf96-b798-5b3f-bc3b-567567567567 - Type : Mall2 is not found ingested in 1,002 ms, concurrency 3.
+2021-04-23T15:13:41.822Z - 1 - "Yellow Mall II" - d38bdf96-b798-5b3f-bc3b-234234234234 - Type : Mall2 is not found ingested in 1,030 ms, concurrency 2.
+2021-04-23T15:13:41.761Z - 0 - "Yellow Mall I" - d38bdf96-b798-5b3f-bc3b-123451234512 - Type : Mall2 is not found ingested in 1,163 ms, concurrency 1.
+2021-04-23T15:32:26.627Z - 1 - "Yellow Mall II" - d38bdf96-b798-5b3f-bc3b-234234234234 - Type : Mall2 is not found ingested in 1,066 ms, concurrency 3.
+2021-04-23T15:32:26.639Z - 2 - "Yellow Mall III" - d38bdf96-b798-5b3f-bc3b-567567567567 - Type : Mall2 is not found ingested in 1,168 ms, concurrency 2.
+2021-04-23T15:32:26.573Z - 0 - "Yellow Mall I" - d38bdf96-b798-5b3f-bc3b-123451234512 - Type : Mall2 is not found ingested in 1,379 ms, concurrency 1.
+2021-04-23T15:58:31.105Z - 1 - "Yellow Mall II" - d38bdf96-b798-5b3f-bc3b-234234234234 - Type : Mall2 is not found ingested in 1,088 ms, concurrency 3.
+2021-04-23T15:58:31.108Z - 2 - "Yellow Mall III" - d38bdf96-b798-5b3f-bc3b-567567567567 - Type : Mall2 is not found ingested in 1,101 ms, concurrency 2.
+2021-04-23T15:58:31.049Z - 0 - "Yellow Mall I" - d38bdf96-b798-5b3f-bc3b-123451234512 - Type : Mall2 is not found ingested in 1,224 ms, concurrency 1.
+2021-04-23T16:19:21.913Z - 1 - "Yellow Mall II" - d38bdf96-b798-5b3f-bc3b-234234234234 - Type : Mall2 is not found ingested in 911 ms, concurrency 3.
+2021-04-23T16:19:21.915Z - 2 - "Yellow Mall III" - d38bdf96-b798-5b3f-bc3b-567567567567 - Type : Mall2 is not found ingested in 939 ms, concurrency 2.
+2021-04-23T16:19:21.850Z - 0 - "Yellow Mall I" - d38bdf96-b798-5b3f-bc3b-123451234512 - Type : Mall2 is not found ingested in 1,046 ms, concurrency 1.
+2021-04-23T16:21:22.467Z - 2 - "Yellow Mall III" - d38bdf96-b798-5b3f-bc3b-567567567567 - Type : Mall2 is not found ingested in 649 ms, concurrency 3.
+2021-04-23T16:21:22.465Z - 1 - "Yellow Mall II" - d38bdf96-b798-5b3f-bc3b-234234234234 - Type : Mall2 is not found ingested in 703 ms, concurrency 2.
+2021-04-23T16:21:22.409Z - 0 - "Yellow Mall I" - d38bdf96-b798-5b3f-bc3b-123451234512 - Type : Mall2 is not found ingested in 771 ms, concurrency 1.
+2021-04-23T16:29:14.632Z - 1 - "Yellow Mall II" - d38bdf96-b798-5b3f-bc3b-234234234234 - Type : MallType is not found ingested in 897 ms, concurrency 3.
+2021-04-23T16:29:14.634Z - 2 - "Yellow Mall III" - d38bdf96-b798-5b3f-bc3b-567567567567 - Type : MallType is not found ingested in 933 ms, concurrency 2.
+2021-04-23T16:29:14.571Z - 0 - "Yellow Mall I" - d38bdf96-b798-5b3f-bc3b-123451234512 - Type : MallType is not found ingested in 1,030 ms, concurrency 1.
+2021-04-23T16:30:13.836Z - 0 - "Yellow Mall I" - d38bdf96-b798-5b3f-bc3b-123451234512 - COREC7FCD7CBDF8749209520EC717042348E ingested in 1,843 ms, concurrency 3.
+2021-04-23T16:30:13.894Z - 1 - "Yellow Mall II" - d38bdf96-b798-5b3f-bc3b-234234234234 - CORE6187B62058BB4E05BBA4E3EC0EDE6408 ingested in 2,349 ms, concurrency 2.
+2021-04-23T16:30:13.897Z - 2 - "Yellow Mall III" - d38bdf96-b798-5b3f-bc3b-567567567567 - CORE58B41A69AA2D4569B1C2B5803CAAC60E ingested in 6,980 ms, concurrency 1.
+2021-04-23T17:00:59.600Z - 1 - "Yellow Mall II" - Yellow Mall II - COREDDCDC27D04C64E59B5F2475F2CA27E63 ingested in 2,049 ms, concurrency 2.
+2021-04-23T17:00:59.544Z - 0 - "Yellow Mall I" - Yellow Mall I - CORE0D307C4462024C088A96D477D54944E5 ingested in 2,851 ms, concurrency 1.
+2021-04-24T10:14:26.500Z - 2 - "Yellow Mall III" - d38bdf96-b798-5b3f-bc3b-567567567567 - CORE3137C7EEB469460B9794AC43CE9F645C ingested in 2,652 ms, concurrency 2.
+2021-04-24T10:14:26.498Z - 1 - "Yellow Mall II" - d38bdf96-b798-5b3f-bc3b-234234234234 - CORE0079C5147B484006804EC030059B9CA8 ingested in 2,653 ms, concurrency 3.
+2021-04-24T10:14:26.408Z - 0 - "Yellow Mall I" - d38bdf96-b798-5b3f-bc3b-123451234512 - COREE5D97D463B81491687FA9ABC85A7D4F5 ingested in 2,762 ms, concurrency 1.
+2021-04-24T18:19:02.697Z - 2 - "Yellow Mall III" - d38bdf96-b798-5b3f-bc3b-567567567567 - CORE7073FE10CC6D4004B654FDB6DE8625B0 ingested in 3,239 ms, concurrency 3.
+2021-04-24T18:19:02.696Z - 1 - "Yellow Mall II" - d38bdf96-b798-5b3f-bc3b-234234234234 - CORE9E234680BCED48E0A1A866DDCB6400F8 ingested in 3,390 ms, concurrency 2.
+2021-04-24T18:19:02.632Z - 0 - "Yellow Mall I" - d38bdf96-b798-5b3f-bc3b-123451234512 - CORE0756A725D8414C57B61EF28A5810E621 ingested in 3,458 ms, concurrency 1.
+2021-04-24T23:09:28.115Z - 0 - "Yellow Mall I" - d38bdf96-b798-5b3f-bc3b-123451234512 - COREFD6053626AB54A61BC8418F75BA91FE7 ingested in 3,894 ms, concurrency 2.
+2021-04-24T23:09:28.173Z - 2 - "Yellow Mall III" - d38bdf96-b798-5b3f-bc3b-567567567567 - CORE477BD1CD726B4776B66051384F7851B1 ingested in 3,835 ms, concurrency 3.
+2021-04-24T23:09:28.171Z - 1 - "Yellow Mall II" - d38bdf96-b798-5b3f-bc3b-234234234234 - CORE88BFEFA6FA7E43BBB0B230F9DFA576F0 ingested in 3,841 ms, concurrency 1.
+2021-04-24T23:18:24.682Z - 0 - "Yellow Mall I" - d38bdf96-b798-5b3f-bc3b-123451234512 - CORE74994103DFE54F00B0F86F01411B19B8 ingested in 1,314 ms, concurrency 3.
+2021-04-24T23:18:24.738Z - 1 - "Yellow Mall II" - d38bdf96-b798-5b3f-bc3b-234234234234 - CORE9F0CD40F24014813BD050EFBFA9F7045 ingested in 1,303 ms, concurrency 2.
+2021-04-24T23:18:24.740Z - 2 - "Yellow Mall III" - d38bdf96-b798-5b3f-bc3b-567567567567 - CORE583289C4D20E4F6FB90AD4A935A53436 ingested in 1,784 ms, concurrency 1.
+2021-04-24T23:19:10.470Z - 1 - "Yellow Mall II" - d38bdf96-b798-5b3f-bc3b-234234234234 - CORE73EA8A34186E4C1B9E958BA64738621B ingested in 826 ms, concurrency 3.
+2021-04-24T23:19:10.472Z - 2 - "Yellow Mall III" - d38bdf96-b798-5b3f-bc3b-567567567567 - CORE165A72CCD56B4C57A4CCCB94FE954B0E ingested in 891 ms, concurrency 2.
+2021-04-24T23:19:10.410Z - 0 - "Yellow Mall I" - d38bdf96-b798-5b3f-bc3b-123451234512 - COREEAA9518A788C4493B043CB45F996C670 ingested in 958 ms, concurrency 1.
+2021-04-24T23:24:02.730Z - 2 - "Yellow Mall III" - d38bdf96-b798-5b3f-bc3b-567567567567 - COREABE4C60A93B04EBD94114BB64876E29E ingested in 1,526 ms, concurrency 3.
+2021-04-24T23:24:02.666Z - 0 - "Yellow Mall I" - d38bdf96-b798-5b3f-bc3b-123451234512 - COREFDFE823C8D614EA9BBCA538892FA1615 ingested in 1,629 ms, concurrency 2.
+2021-04-24T23:24:02.727Z - 1 - "Yellow Mall II" - d38bdf96-b798-5b3f-bc3b-234234234234 - CORE1D25750B9DF64CF8914641793AAC3EF2 ingested in 1,765 ms, concurrency 1.
+2021-04-25T00:27:25.844Z - 0 - "Banana Brand" - b1001 - CORE6BC43B969362401A998640D6FBFFEFF8 ingested in 2,639 ms, concurrency 1.
+2021-04-25T09:14:19.598Z - 0 - "Banana Brand" - b1001 - COREAA6165E3577246F787290EEEAE2D1C4E ingested in 2,662 ms, concurrency 1.
+2021-04-25T09:16:44.449Z - 0 - "Banana Brand" - b1001 - CORE4C7ACDDFB0454B1792FCE0E188C6A417 ingested in 1,287 ms, concurrency 1.
+2021-04-25T09:19:39.026Z - 0 - "Banana Brand" - b1001 - CORED70E15613745426294AC4AE907E065C3 ingested in 1,555 ms, concurrency 1.
+2021-04-25T09:25:20.495Z - 0 - "Banana Brand" - b1001 - CORE1112C20128EA4FB59F4CCA87A600BE6C ingested in 1,628 ms, concurrency 1.
+2021-04-25T09:25:52.462Z - 0 - "Banana Brand" - b1001 - CORE1F3A2A7471F54ABBAA0355F70AAF864A ingested in 1,225 ms, concurrency 1.
+2021-04-25T09:46:14.521Z - 0 - "Banana Brand" - b1001 - CORE9EF80E2631EF46468A65CBFA0DA6D1B5 ingested in 1,760 ms, concurrency 1.
+2021-04-25T09:55:07.715Z - 0 - "Banana Brand" - b1001 - COREAC5543F46366419390814446184A75AE ingested in 1,541 ms, concurrency 1.
+2021-04-25T11:59:47.937Z - 0 - "Yellow Mall Madrid" - mall0001 - CORE88B251F7132E4A2D8BD943BB030D5B10 ingested in 3,123 ms, concurrency 3.
+2021-04-25T11:59:47.995Z - 2 - "Yellow Mall Toledo" - mall0003 - COREC8E303AF3FB54489B68206B8C4AF70C4 ingested in 3,066 ms, concurrency 2.
+2021-04-25T11:59:47.992Z - 1 - "Yellow Mall Getafe" - mall0002 - CORE586DFAFCC7AA4738B5E538D8604F88CF ingested in 3,209 ms, concurrency 1.
+2021-04-25T11:59:59.461Z - 0 - "Banana Yellow Madrid" - b001 - CORE0F5277D6DA7346C69B5C0D2C4C2F0BF3 ingested in 1,867 ms, concurrency 3.
+2021-04-25T11:59:59.520Z - 1 - "Banana Yellow Getafe" - b002 - CORE707786441B9F4BC1985D81CCCC940F5A ingested in 3,245 ms, concurrency 2.
+2021-04-25T11:59:59.522Z - 2 - "Lemon Yellow" - b003 - CORE487785C8603E4223AED2FBB414EC37AC ingested in 3,330 ms, concurrency 1.
+2021-04-25T12:04:43.561Z - 1 - "Yellow Mall Getafe" - mall0002 - COREC9163D731DEA4F69956BB6197E137BCC ingested in 945 ms, concurrency 3.
+2021-04-25T12:04:43.563Z - 2 - "Yellow Mall Toledo" - mall0003 - CORE4762B62A9C5C49C7870DB0660F74ADF6 ingested in 970 ms, concurrency 2.
+2021-04-25T12:04:43.505Z - 0 - "Yellow Mall Madrid" - mall0001 - COREC1F4AD2167E846868A276E93070E8E84 ingested in 1,159 ms, concurrency 1.
+2021-04-25T14:19:49.392Z - 0 - "Yellow Mall Madrid" - mall0001 - CORE508B8B8967C845F491073BC47247D98D ingested in 1,268 ms, concurrency 3.
+2021-04-25T14:19:49.461Z - 1 - "Yellow Mall Getafe" - mall0002 - CORE6E493A55444141FC82C7BF3913824483 ingested in 1,543 ms, concurrency 2.
+2021-04-25T14:19:49.464Z - 2 - "Yellow Mall Toledo" - mall0003 - CORE3A53BE6C902B4BAD8431C88BD3E70E56 ingested in 1,833 ms, concurrency 1.
+2021-04-25T14:21:28.309Z - 1 - "Banana Yellow Getafe" - b002 - CORE9AE1840CFAC44E6C9602B30F5529E931 ingested in 1,850 ms, concurrency 3.
+2021-04-25T14:21:28.311Z - 2 - "Lemon Yellow" - b003 - CORE2ABCAA76FF1B4057BB1EE6DFB5CDCD6C ingested in 2,314 ms, concurrency 2.
+2021-04-25T14:21:28.241Z - 0 - "Banana Yellow Madrid" - b001 - CORE2128061C3DC24ED2B9884C08A25D6CC6 ingested in 2,457 ms, concurrency 1.
+2021-05-01T12:09:42.985Z - 0 - "Yellow Mall Madrid" - mall0001 - CORE54373F141B3F41038CE6900A9DC2871A ingested in 2,575 ms, concurrency 3.
+2021-05-01T12:09:43.042Z - 2 - "Yellow Mall Toledo" - mall0003 - CORE6E6F288829884C11BD2D78AF758CFF36 ingested in 4,436 ms, concurrency 2.
+2021-05-01T12:09:43.039Z - 1 - "Yellow Mall Getafe" - mall0002 - CORE06EE2EF9E5BE441F840BFFD98A652E05 ingested in 4,476 ms, concurrency 1.
+2021-05-01T12:13:10.612Z - 1 - "Yellow Mall Getafe" - mall0002 - CORED60A9E3E96F8442DB3029A36BE1A4EDF ingested in 1,984 ms, concurrency 3.
+2021-05-01T12:13:10.614Z - 2 - "Yellow Mall Toledo" - mall0003 - CORE3431225CCE5A40BB875ABD9BE705F8E6 ingested in 2,156 ms, concurrency 2.
+2021-05-01T12:13:10.558Z - 0 - "Yellow Mall Madrid" - mall0001 - COREE94F95D283B0435D882FA3D42EB0B691 ingested in 3,022 ms, concurrency 1.
+2021-05-01T13:20:27.213Z - 0 - "Yellow Mall Madrid" - mall0001 - CORE01787E234AB542EB8988B4083EBD93E4 ingested in 2,207 ms, concurrency 3.
+2021-05-01T13:20:27.268Z - 1 - "Yellow Mall Getafe" - mall0002 - COREA91888A636584D63835FA238207ECC77 ingested in 3,944 ms, concurrency 1.
+2021-05-01T13:20:27.270Z - 2 - "Yellow Mall Toledo" - mall0003 - CORE8BC10F4E631C4527AD9963514D8257F0 ingested in 3,941 ms, concurrency 2.
+2021-05-01T13:24:15.591Z - 2 - "Yellow Mall Toledo" - mall0003 - COREE7D3F828C40E458EBE1710251B549316 ingested in 1,169 ms, concurrency 3.
+2021-05-01T13:24:15.590Z - 1 - "Yellow Mall Getafe" - mall0002 - CORE44B9996D3AE340C4BBE6D15FE2EBFABA ingested in 1,173 ms, concurrency 2.
+2021-05-01T13:24:15.537Z - 0 - "Yellow Mall Madrid" - mall0001 - CORE0949D5505316403BA199C66A55F88868 ingested in 1,689 ms, concurrency 1.
+2021-05-01T13:36:03.072Z - 0 - "Yellow Mall Madrid" - mall0001 - COREE5C0D81E03344FF7A2592C7F32945EEC ingested in 1,571 ms, concurrency 3.
+2021-05-01T13:36:03.129Z - 2 - "Yellow Mall Toledo" - mall0003 - CORE12F6598D33C9415B8534B9DD5D68F0E8 ingested in 1,852 ms, concurrency 2.
+2021-05-01T13:36:03.127Z - 1 - "Yellow Mall Getafe" - mall0002 - COREA93E3F48A3F84852A581767A59D7841E ingested in 2,469 ms, concurrency 1.
+2021-05-01T13:39:13.337Z - 1 - "Yellow Mall Getafe" - mall0002 - COREDF3062E727E64CD7B6E729F11DFB33D5 ingested in 1,447 ms, concurrency 3.
+2021-05-01T13:39:13.282Z - 0 - "Yellow Mall Madrid" - mall0001 - COREA14FA23382034F4CA1CD531A2A621161 ingested in 1,505 ms, concurrency 2.
+2021-05-01T13:39:13.339Z - 2 - "Yellow Mall Toledo" - mall0003 - CORECAD3448C00DF482A87E93DBD704CB17D ingested in 1,554 ms, concurrency 1.
+2021-05-01T13:41:37.828Z - 0 - "Yellow Mall Madrid" - mall0001 - CORE6F892AC6F37547AC992323A07E3E026B ingested in 1,229 ms, concurrency 3.
+2021-05-01T13:41:37.893Z - 2 - "Yellow Mall Toledo" - mall0003 - CORECFE6EF1C58FD4058865F2215A518903A ingested in 1,168 ms, concurrency 2.
+2021-05-01T13:41:37.890Z - 1 - "Yellow Mall Getafe" - mall0002 - CORE4F5D0627EE08436BB23326328AE11604 ingested in 1,618 ms, concurrency 1.
+2021-05-01T13:42:05.527Z - 1 - "Yellow Arabian Getafe" - mall0002 - CORE9AA9983E6C0E4121822843B5EB4BB20C ingested in 909 ms, concurrency 3.
+2021-05-01T13:42:05.471Z - 0 - "Yellow Arabian Madrid" - mall0001 - CORE3D9C635A11D347B89A964CBCF031940C ingested in 1,632 ms, concurrency 2.
+2021-05-01T13:42:05.529Z - 2 - "Yellow Arabian Toledo" - mall0003 - COREB5B13998931D4CA3A5071A691BD54462 ingested in 1,574 ms, concurrency 1.
+2021-05-01T13:51:30.115Z - 0 - "Yellow Mall Madrid" - mall0001 - Error:Item not found:  ingested in 1,348 ms, concurrency 3.
+2021-05-01T13:51:30.171Z - 1 - "Yellow Mall Getafe" - mall0002 - Error:Item not found:  ingested in 1,356 ms, concurrency 2.
+2021-05-01T13:51:30.173Z - 2 - "Yellow Mall Toledo" - mall0003 - Error:Item not found:  ingested in 1,374 ms, concurrency 1.
+2021-05-01T13:56:02.643Z - 2 - "Yellow Mall Toledo" - mall0003 - CORE9EA8D9CB769A46398D959D92ABBAA24D ingested in 1,718 ms, concurrency 3.
+2021-05-01T13:56:02.584Z - 0 - "Yellow Mall Madrid" - mall0001 - CORE9C43F034039D4628A3AE17E09525993C ingested in 1,786 ms, concurrency 2.
+2021-05-01T13:56:02.640Z - 1 - "Yellow Mall Getafe" - mall0002 - COREBD6148FCBF1043AC95654287ED446A11 ingested in 1,748 ms, concurrency 1.
+2021-05-01T13:56:32.205Z - 1 - "Yellow Arabian Getafe" - mall0002 - CORE2D81EB5936C847BEAE15117811E00893 ingested in 1,299 ms, concurrency 3.
+2021-05-01T13:56:32.141Z - 0 - "Yellow Arabian Madrid" - mall0001 - COREAC58133BF6A54BBB8EB1C023051F37D6 ingested in 1,402 ms, concurrency 2.
+2021-05-01T13:56:32.207Z - 2 - "Yellow Arabian Toledo" - mall0003 - CORE5B466AC5A95B408B8A2D310B7BD31C66 ingested in 1,478 ms, concurrency 1.
+2021-05-01T13:58:07.888Z - 2 - "Yellow Arabian Toledo" - mall0003 - COREBBA6B919B7E0419995B855E1769D64A1 ingested in 1,178 ms, concurrency 3.
+2021-05-01T13:58:07.828Z - 0 - "Yellow Arabian Madrid" - mall0001 - CORE40826572E5DB4028B428E2C1C0158288 ingested in 1,413 ms, concurrency 2.
+2021-05-01T13:58:07.886Z - 1 - "Yellow Arabian Getafe" - mall0002 - CORE375876FB0BE344A9815881BFAA28BF57 ingested in 1,390 ms, concurrency 1.
+2021-05-01T14:00:07.314Z - 2 - "Yellow Arabian Toledo" - mall0003 - COREBCC0609C9DC740029D7F6EA8BBFB37AE ingested in 975 ms, concurrency 3.
+2021-05-01T14:00:07.255Z - 0 - "Yellow Arabian Madrid" - mall0001 - COREDD2A67CDD12144AEB9A2804EE752C79D ingested in 1,058 ms, concurrency 2.
+2021-05-01T14:00:07.312Z - 1 - "Yellow Arabian Getafe" - mall0002 - CORE7A062A0384B94EB9AEAEC7456B2C7503 ingested in 1,156 ms, concurrency 1.
+2021-05-01T14:01:07.775Z - 0 - "Yellow Arabian Madrid" - mall0001 - CORE319A0F22F58445BDB406D3A257AB8744 ingested in 1,112 ms, concurrency 3.
+2021-05-01T14:01:07.832Z - 1 - "Yellow Arabian Getafe" - mall0002 - CORE78D31DD6004B4CF7B4D41AAB33D353FE ingested in 1,274 ms, concurrency 2.
+2021-05-01T14:01:07.834Z - 2 - "Yellow Arabian Toledo" - mall0003 - CORE087FD98457454CF7A42F3EA4A76A6B40 ingested in 1,430 ms, concurrency 1.
+2021-05-01T14:40:24.965Z - 2 - "Yellow Mall Toledo" - mall0003 - CORE8DC84D99667D4E6CAF65F09FE7A5B55E ingested in 1,755 ms, concurrency 2.
+2021-05-01T14:40:24.963Z - 1 - "Yellow Mall Getafe" - mall0002 - CORE3EFBD55141684747919C0D54487AF76B ingested in 1,756 ms, concurrency 3.
+2021-05-01T14:40:24.908Z - 0 - "Yellow Mall Madrid" - mall0001 - COREC333D21257A44D8EA9EC47DAC12B59B6 ingested in 1,829 ms, concurrency 1.
+2021-05-01T14:41:07.305Z - 1 - "Yellow Arabian Getafe" - mall0002 - COREA7653A9C22424834A0AE4948D00AE6B7 ingested in 1,364 ms, concurrency 3.
+2021-05-01T14:41:07.236Z - 0 - "Yellow Arabian Madrid" - mall0001 - CORE02A3607686384BD5815055A650F2E188 ingested in 1,459 ms, concurrency 2.
+2021-05-01T14:41:07.307Z - 2 - "Yellow Arabian Toledo" - mall0003 - CORE8820001D65754F8282267B9BF41A8890 ingested in 1,537 ms, concurrency 1.
+2021-05-01T14:43:43.774Z - 2 - "Lemon Yellow" - b003 - COREC6737AEFCE4940D89505665EFD5515E3 ingested in 880 ms, concurrency 3.
+2021-05-01T14:43:43.772Z - 1 - "Banana Yellow Getafe" - b002 - COREBB11AF39CAD842CEBD06C1DE480C60E1 ingested in 958 ms, concurrency 2.
+2021-05-01T14:43:43.713Z - 0 - "Banana Yellow Madrid" - b001 - CORE149D3E33A865414B9815FB1A8D068AD8 ingested in 2,287 ms, concurrency 1.
+2021-05-01T14:44:36.017Z - 1 - "Banana AR Yellow Getafe" - b002 - CORE7A41913A30064F9EB6829723A6247249 ingested in 1,347 ms, concurrency 3.
+2021-05-01T14:44:36.019Z - 2 - "Lemon AR Yellow" - b003 - CORECEE7DF7768A54D17834E9796BF96AB20 ingested in 1,457 ms, concurrency 2.
+2021-05-01T14:44:35.959Z - 0 - "Banana AR Yellow Madrid" - b001 - CORE1A160BABEAB84A14BFCC113D5DDFDF06 ingested in 1,610 ms, concurrency 1.
+2021-05-01T16:49:48.370Z - 0 - "Yellow Mall Madrid" - mall0001 - CORE7A4D71387BBA41B88974AC49968530AE ingested in 2,000 ms, concurrency 3.
+2021-05-01T16:49:48.431Z - 2 - "Yellow Mall Toledo" - mall0003 - CORE43EFE05E6BA2478294C28D1364DF0395 ingested in 1,973 ms, concurrency 2.
+2021-05-01T16:49:48.428Z - 1 - "Yellow Mall Getafe" - mall0002 - CORE1992FFFA57664BF39F789CDBC0AD5426 ingested in 2,072 ms, concurrency 1.
+2021-05-01T16:50:09.994Z - 2 - "Yellow Arabian Toledo" - mall0003 - COREE1AD4C9B23ED46ACA98932C3C8E90336 ingested in 1,320 ms, concurrency 3.
+2021-05-01T16:50:09.992Z - 1 - "Yellow Arabian Getafe" - mall0002 - COREC95721A5CF144F0FA4C9DD89C8266282 ingested in 1,405 ms, concurrency 2.
+2021-05-01T16:50:09.932Z - 0 - "Yellow Arabian Madrid" - mall0001 - CORE2DAC7FD69CAE4255B4A3A37ECDB14461 ingested in 1,748 ms, concurrency 1.
+2021-05-01T16:53:55.711Z - 1 - "Yellow Mall Getafe" - mall0002 - CORE3EC6D6CE6D8C4D7BA86605791F916DC6 ingested in 903 ms, concurrency 3.
+2021-05-01T16:53:55.654Z - 0 - "Yellow Mall Madrid" - mall0001 - COREE9AB4EFF81DF453588809D115C382ACC ingested in 970 ms, concurrency 2.
+2021-05-01T16:53:55.714Z - 2 - "Yellow Mall Toledo" - mall0003 - CORED24EBD5F52D84A2187BB084D53D21F1A ingested in 933 ms, concurrency 1.
+2021-05-01T16:54:02.284Z - 0 - "Yellow Arabian Madrid" - mall0001 - CORE9496BB4B43414B3290268D298D3398F9 ingested in 1,311 ms, concurrency 3.
+2021-05-01T16:54:02.343Z - 1 - "Yellow Arabian Getafe" - mall0002 - COREB96591F6857C41599455457E8F8C98C2 ingested in 1,398 ms, concurrency 2.
+2021-05-01T16:54:02.345Z - 2 - "Yellow Arabian Toledo" - mall0003 - CORE07D744C4C75A45FE8C4845A7542994D8 ingested in 1,438 ms, concurrency 1.
+2021-05-01T17:04:24.670Z - 2 - "Yellow Mall Toledo" - mall0003 - CORE7B468D80AA8743D1BB35C8BF17E12002 ingested in 1,808 ms, concurrency 3.
+2021-05-01T17:04:24.668Z - 1 - "Yellow Mall Getafe" - mall0002 - CORE94C962224CFD4DBB8AB4190D42103BA3 ingested in 1,901 ms, concurrency 2.
+2021-05-01T17:04:24.611Z - 0 - "Yellow Mall Madrid" - mall0001 - COREE8049B10EA3144BE8A6BA8135A8E984D ingested in 2,216 ms, concurrency 1.
+2021-05-01T17:04:34.434Z - 1 - "Yellow Arabian Getafe" - mall0002 - CORE212A29B3B3504647A945E701DEC81A1D ingested in 840 ms, concurrency 3.
+2021-05-01T17:04:34.436Z - 2 - "Yellow Arabian Toledo" - mall0003 - CORE7BA0C3FEB9CD4FC29BC7A999469D299B ingested in 852 ms, concurrency 2.
+2021-05-01T17:04:34.374Z - 0 - "Yellow Arabian Madrid" - mall0001 - CORE5D9307D30EA3458AAB4854D3F7123FDB ingested in 1,565 ms, concurrency 1.
+2021-05-01T17:05:49.210Z - 0 - "Yellow Arabian Madrid" - mall0001 - COREB8ADCA76196B4267B96B480045A306C8 ingested in 922 ms, concurrency 2.
+2021-05-01T17:05:49.267Z - 1 - "Yellow Arabian Getafe" - mall0002 - CORE32648C289B4944B790CD5A4C10BD14A9 ingested in 864 ms, concurrency 3.
+2021-05-01T17:05:49.269Z - 2 - "Yellow Arabian Toledo" - mall0003 - COREFC3A02992B284CEC9543150906D16EF6 ingested in 959 ms, concurrency 1.
+2021-05-01T17:06:14.073Z - 0 - "Banana Yellow Madrid" - b001 - COREB701763BF06045B8BC8F19E331D0CB1A ingested in 1,374 ms, concurrency 3.
+2021-05-01T17:06:14.130Z - 1 - "Banana Yellow Getafe" - b002 - COREC5BDDAFA5396418DA98F5DAC9AE440CF ingested in 1,330 ms, concurrency 2.
+2021-05-01T17:06:14.132Z - 2 - "Lemon Yellow" - b003 - COREC5C42F7FB157478180F49D360043DC0E ingested in 1,330 ms, concurrency 1.
+2021-05-01T17:09:59.555Z - 2 - "Lemon Yellow" - b003 - CORE89ED83B0414C48C3B36477D2E7635B6A ingested in 2,631 ms, concurrency 3.
+2021-05-01T17:09:59.553Z - 1 - "Banana Yellow Getafe" - b002 - COREC0AD4277F36040CD94D972810EA2AB8A ingested in 2,832 ms, concurrency 2.
+2021-05-01T17:09:59.499Z - 0 - "Banana Yellow Madrid" - b001 - COREB3F132B9CFE24B19BCA75BB6FCA789E4 ingested in 2,959 ms, concurrency 1.
+2021-05-01T17:10:30.230Z - 2 - "Yellow Arabian Toledo" - mall0003 - Error:Cannot create item variation for Item Variation Set C148B88463526528E0539510000A3303. As there is already an exiting item of Variation Type language and Variation Value ar. ingested in 813 ms, concurrency 3.
+2021-05-01T17:10:30.228Z - 1 - "Yellow Arabian Getafe" - mall0002 - Error:Cannot create item variation for Item Variation Set C148B8863A375950E0539510000A279C. As there is already an exiting item of Variation Type language and Variation Value ar. ingested in 824 ms, concurrency 2.
+2021-05-01T17:10:30.171Z - 0 - "Yellow Arabian Madrid" - mall0001 - Error:Cannot create item variation for Item Variation Set C148B8867291837AE0539510000AC422. As there is already an exiting item of Variation Type language and Variation Value ar. ingested in 1,158 ms, concurrency 1.
+2021-05-01T17:11:34.733Z - 1 - "Banana AR Yellow Getafe" - b002 - COREA5109E1EC39A48CFA35815D732BCC6D2 ingested in 1,135 ms, concurrency 3.
+2021-05-01T17:11:34.680Z - 0 - "Banana AR Yellow Madrid" - b001 - CORECA9B94E495224DE0A98BC5A00A40C8E5 ingested in 1,266 ms, concurrency 2.
+2021-05-01T17:11:34.735Z - 2 - "Lemon AR Yellow" - b003 - COREF0D538A51C14444588AC13BA69FE0967 ingested in 1,332 ms, concurrency 1.
+2021-05-05T10:11:51.464Z - 0 - "Zara Toledo" - CORE350FD81F39AD4DA39C203995B37ED80F - CORE3D9FEF4FF5EB4890A4285F9375983108 ingested in 1,349 ms, concurrency 2.
+2021-05-05T10:11:51.518Z - 1 - "Zara Madrid" - COREFFDD71550DFC48378DCF8E93134ED183 - CORE43D2652BF71946C1B8A4E1F676FE0913 ingested in 2,353 ms, concurrency 1.
+2021-05-05T10:27:32.524Z - 1 - "Zara Madrid" - CORE43D2652BF71946C1B8A4E1F676FE0913 - CORE7D4A834ADF0B4FE6AAEE738469977CF3 ingested in 1,639 ms, concurrency 2.
+2021-05-05T10:27:32.469Z - 0 - "Zara Toledo" - CORE3D9FEF4FF5EB4890A4285F9375983108 - CORE59B3DB1F90BD45C7BFA7661741499536 ingested in 1,833 ms, concurrency 1.
+2021-05-05T10:41:10.909Z - 0 - "Zara Toledo" - CORE3D9FEF4FF5EB4890A4285F9375983108 - CORED62B0A389FF847E7AD1884DB802DDE56 ingested in 2,136 ms, concurrency 2.
+2021-05-05T10:41:10.965Z - 1 - "Zara Madrid" - CORE43D2652BF71946C1B8A4E1F676FE0913 - CORE80E2F209B87645FA906B9ABD86FA8965 ingested in 2,185 ms, concurrency 1.
+2021-05-05T19:12:19.530Z - 1 - "Zara Madrid" - CORE80E2F209B87645FA906B9ABD86FA8965 - CORE4545BAAB80414B89BFAD91F4FA3E1860 ingested in 1,618 ms, concurrency 2.
+2021-05-05T19:12:19.469Z - 0 - "Zara Toledo" - CORE59B3DB1F90BD45C7BFA7661741499536 - COREDB1E921B023E45248F7AE1F5E02B741C ingested in 1,720 ms, concurrency 1.
+2021-05-05T19:21:40.893Z - 1 - "Zara Madrid" - CORE80E2F209B87645FA906B9ABD86FA8965 - CORE8F0DEDC74655496DA99ECAAC0DE3E735 ingested in 1,277 ms, concurrency 2.
+2021-05-05T19:21:40.840Z - 0 - "Zara Toledo" - CORE59B3DB1F90BD45C7BFA7661741499536 - CORE4FD17AE3B5CA4EDFADB10BED641DCB36 ingested in 2,503 ms, concurrency 1.
+2021-05-05T19:24:25.574Z - 1 - "Zara Madrid" - CORE80E2F209B87645FA906B9ABD86FA8965 - COREF3734D44D6AB4F0B84F8D686BC029C58 ingested in 2,082 ms, concurrency 2.
+2021-05-05T19:24:25.521Z - 0 - "Zara Toledo" - CORE59B3DB1F90BD45C7BFA7661741499536 - CORE89EE7E378E0C4432AD8687C4559BD58D ingested in 2,705 ms, concurrency 1.
+2021-05-05T19:40:09.547Z - 1 - "Zara Madrid" - CORE80E2F209B87645FA906B9ABD86FA8965 - COREDC29FF24004E4F8388E0A1B31A96FD24 ingested in 2,959 ms, concurrency 2.
+2021-05-05T19:40:09.485Z - 0 - "Zara Toledo" - CORE59B3DB1F90BD45C7BFA7661741499536 - CORE3FCFAC44EE8142C6994DC72DE45E2C21 ingested in 3,337 ms, concurrency 1.

@@ -1,0 +1,25 @@
+{
+  "name": "@dolfdijkstra/oce-csv-ingest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "bluebird": "^3.7.2",
+    "commander": "^4.1.1",
+    "concurrent-queue": "^7.0.2",
+    "csv-parse": "^4.8.7",
+    "firstline": "^2.0.2",
+    "line-reader": "^0.4.0",
+    "lodash": "^4.17.15",
+    "oce-management-cli": "file:oce-management-cli-4.0.20200305.tgz",
+    "progress": "^2.0.3",
+    "uuid": "^7.0.3"
+  }
+}
