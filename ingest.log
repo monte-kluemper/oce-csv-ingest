@@ -169,3 +169,12 @@
 2021-05-05T19:24:25.521Z - 0 - "Zara Toledo" - CORE59B3DB1F90BD45C7BFA7661741499536 - CORE89EE7E378E0C4432AD8687C4559BD58D ingested in 2,705 ms, concurrency 1.
 2021-05-05T19:40:09.547Z - 1 - "Zara Madrid" - CORE80E2F209B87645FA906B9ABD86FA8965 - COREDC29FF24004E4F8388E0A1B31A96FD24 ingested in 2,959 ms, concurrency 2.
 2021-05-05T19:40:09.485Z - 0 - "Zara Toledo" - CORE59B3DB1F90BD45C7BFA7661741499536 - CORE3FCFAC44EE8142C6994DC72DE45E2C21 ingested in 3,337 ms, concurrency 1.
+2021-06-09T12:06:08.001Z - 1 - "COREB0CB72FA303442C794EB72DA5E25A118|COREFD2CD14FFD564D72B75D..." - b002 - Error:categories : id or externalid, type expected ingested in 1,164 ms, concurrency 3.
+2021-06-09T12:06:07.840Z - 0 - "COREB0CB72FA303442C794EB72DA5E25A118" - b001 - Error:categories : id or externalid, type expected ingested in 1,715 ms, concurrency 2.
+2021-06-09T12:06:08.006Z - 2 - "COREB0CB72FA303442C794EB72DA5E25A118|COREFD2CD14FFD564D72B75D..." - b003 - Error:categories : id or externalid, type expected ingested in 1,685 ms, concurrency 1.
+2021-06-09T12:08:28.437Z - 1 - "COREB0CB72FA303442C794EB72DA5E25A118|COREFD2CD14FFD564D72B75D..." - b002 - Error:categories : id or externalid, type expected ingested in 729 ms, concurrency 3.
+2021-06-09T12:08:28.381Z - 0 - "COREB0CB72FA303442C794EB72DA5E25A118" - b001 - Error:categories : id or externalid, type expected ingested in 798 ms, concurrency 2.
+2021-06-09T12:08:28.439Z - 2 - "COREB0CB72FA303442C794EB72DA5E25A118|COREFD2CD14FFD564D72B75D..." - b003 - Error:categories : id or externalid, type expected ingested in 1,396 ms, concurrency 1.
+2021-06-09T12:12:11.714Z - 2 - "Lemon Yellow" - b003 - COREDC2A4EDA16DD44F5A50D2BC72FE2B010 ingested in 1,439 ms, concurrency 3.
+2021-06-09T12:12:11.712Z - 1 - "Banana Yellow Getafe" - b002 - COREF2D690FD68934D95816F2C0FAE0C824C ingested in 3,272 ms, concurrency 2.
+2021-06-09T12:12:11.655Z - 0 - "Banana Yellow Madrid" - b001 - CORE77419B007FA64BCE8D24EA36CFD5AD54 ingested in 3,523 ms, concurrency 1.

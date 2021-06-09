@@ -18,13 +18,31 @@ const fieldTransform = (name, value, config) => {
       if(type.startsWith("@")) {
         var refType = type.substring(1);
         if( refType==null || value==null || value.length==0 )  { return null };
-        if((value.startsWith("CORE")||value.startsWith("CONT"))&&value.length==36) {
-          // OCE REFERENCE FIELD
-          value = {"id":value,"type":refType}
-          return value;
+
+        // Allow multiple values for a reference field, separated by "|"
+        var values = value.split('|');
+        var result = [];
+        for( let val of values ) {
+          if((val.startsWith("CORE")||val.startsWith("CONT"))&&val.length==36) {
+            // OCE REFERENCE FIELD
+            valObj = {"id":val,"type":refType}
+          } else {
+            var refMap = config.ref.get(refType);
+            if( refMap != null ) {
+              valObj = refMap.get(val);
+            } else {
+              valObj = null;
+            }
+          }
+          if( valObj!= null ) { result.push( valObj ); }
         }
-        var refMap = config.ref.get(refType);
-        if( refMap != null ) { return refMap.get(value); } else { return null; }
+        if( result.length == 0 ) {
+          return null;
+        } else if( result.length == 1 ) {
+          return result[0];
+        } else {
+          return result;
+        }
       }
   }
 }

@@ -1,4 +1,4 @@
-id,mall:@Mall,brand_name,details,phone,
-b001,mall0001,Banana Yellow Madrid,Details for Banana Yellow Brand,912312321,
-b002,mall0002,Banana Yellow Getafe,Details for Banana Yellow Brand,923232323,
-b003,mall0002,Lemon Yellow,Details for Lemon Yellow Brand,934343434,
+id,mall:@Mall,categories:@Mall-Category,brand_name,details,phone,
+b001,mall0001,COREB0CB72FA303442C794EB72DA5E25A118,Banana Yellow Madrid,Details for Banana Yellow Brand,912312321,
+b002,mall0002,COREB0CB72FA303442C794EB72DA5E25A118|COREFD2CD14FFD564D72B75DA45B427DB87B,Banana Yellow Getafe,Details for Banana Yellow Brand,923232323,
+b003,mall0002,COREB0CB72FA303442C794EB72DA5E25A118|COREFD2CD14FFD564D72B75DA45B427DB87B,Lemon Yellow,Details for Lemon Yellow Brand,934343434,
